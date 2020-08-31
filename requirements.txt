@@ -1,0 +1,11 @@
+cmake
+opencv-python
+dlib
+opencv-contrib-python
+numpy==1.16.0
+scipy==1.4.1
+matplotlib
+scikit-learn
+Tensorflow==2.3.0
+Keras
+MTCNN
